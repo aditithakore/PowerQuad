@@ -6,5 +6,15 @@
   },
   "devDependencies": {
     "process": "^0.11.10"
-  }
+  },
+  "name": "frontend-mail-sense",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "author": "Durgesh Aditi Ankita Nidhi",
+  "license": "ISC",
+  "description": ""
 }
