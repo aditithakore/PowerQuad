@@ -1,0 +1,247 @@
+body{
+    font-family: 'Roboto', sans-serif;
+  }
+  .link-black{
+    color: rgb(211, 31, 142);
+  }
+  .link-land{
+    display: block;
+  }
+
+  .link-black:hover {
+    /* opacity: 0.8; */
+    color: rgb(85, 14, 44);
+    font-weight: bold;
+  }
+  .landImg{
+    width: 50px;
+  }
+
+  .landImgComp{
+    padding: auto 0;
+  }
+
+  .border-dark{
+    border: 2px solid #d1ddeb;
+    margin: 1%;
+  }
+
+  .navOpt{
+    padding-top: 2%;
+    text-align: center;
+  }
+
+  .search {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin: 2%;
+  }
+  
+  .search-input {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 200px;
+  }
+  
+  .search-button {
+    padding: 8px 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .card-list {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr)); /* Display four columns */
+    grid-gap: 20px;
+  }
+  
+  .card {
+    background-color: #f8f8f8;
+    padding: 20px;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+
+  .shimmer-card{
+    width: 200px ;
+    height: 100px ;
+    background: #ffebeb;
+    border-radius: 5%;
+  }
+
+  .cloth-card-image {
+    width: 100%;
+    max-height: 200px;
+    object-fit: cover;
+    border-radius: 4px;
+    margin-bottom: 10px;
+  }
+  
+  .cloth-card-title {
+    font-size: 16px;
+    margin-bottom: 8px;
+  }
+  
+  .cloth-card-price {
+    font-size: 14px;
+    margin-bottom: 4px;
+  }
+  
+  .cloth-card-desc{
+    font-size: 11px;
+    margin-bottom: 2px;
+    line-height: 17px;
+  }
+  
+  .cloth-card-color {
+    font-size: 12px;
+    margin-bottom: 2px;
+  }
+  .cloth-card {
+    /* display: grid; */
+    grid-template-columns: repeat(4, 1fr); /* Display four columns */
+    /* grid-gap: 20px; */
+  }
+
+  .compoList{
+    padding: 0% auto;
+  }
+  
+  
+  @media (max-width: 450px) {
+    .card-list {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr); /* Display four columns */
+        grid-gap: 20px;
+      }
+    .box {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+  }
+  
+  @media (min-width: 450px) and (max-width: 900px) {
+    .card-list {
+      grid-template-columns: repeat(2, 1fr); /* Display two columns */
+    }
+    .box {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+  }
+  
+  @media (min-width: 900px){
+    .card-list {
+      grid-template-columns: repeat(4, 1fr); /* Display two columns */
+    }
+}
+  
+/* ------------ */
+.bd1{
+  background: linear-gradient(#0042AA, rgb(100,156,210));
+  color: white;
+  font-family: 'Merriweather', serif;
+  text-align: center;
+  padding: 0%;
+}
+
+.bd2{
+  background: linear-gradient(#ffffff,#5b5de7) ;
+  color: white;
+  font-family: 'Merriweather', serif;
+  text-align: center;
+}
+.content{
+  height: 35rem;
+  margin-top: 5%;
+}
+.box-in {
+  display: block;
+  margin: auto;
+}
+
+.box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.box2{
+  justify-content: center;
+  align-items: center;
+}
+
+.but{
+  margin: 1.5%;
+}
+.para{
+  display: inline;
+  color: white;
+}
+.ic2{
+  height: 7rem;
+  margin: 5%;
+}
+.di{
+  margin-top: 2%;
+  padding: 2%;
+}
+.profile{
+  width : 20% ;
+  margin: 0 auto 0 auto;
+  border-style: solid;
+  border-radius: 50%;
+}
+.name{
+  margin: 15px;
+}
+.butons{
+  margin: 1% 25% 1% 25%;
+}
+.ic{
+  margin: 0 5px;
+  width: 30px;
+  height: 30px;
+}
+.fo{
+  color:black;
+}
+
+
+/*Shimmer CSS */
+.shimmer-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 25px;
+  justify-content: center;
+}
+.shimmer-card {
+  flex-basis: 250px;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-color: #d3d5df;
+  box-shadow: 0 4px 7px 0 rgb(218 220 230 / 60%);
+}
+.shimmer-title {
+  width: 60%;
+  margin-top: 10px;
+}
+.shimmer-tags {
+  width: 80%;
+  margin-top: 4px;
+}
+.shimmer-details {
+  width: 100%;
+  margin-top: 18px;
+}
+.shimmer-container .shimmer-img {
+  height: 144px;
+  width: 230px;
+}
