@@ -34083,7 +34083,7 @@ const About = ()=>{
                             "data-bs-target": "#collapseOne",
                             "aria-expanded": "true",
                             "aria-controls": "collapseOne",
-                            children: "Durgesh Dilip Mandge"
+                            children: "Mail-Sense Application"
                         }, void 0, false, {
                             fileName: "src/components/About.jsx",
                             lineNumber: 7,
@@ -34102,7 +34102,7 @@ const About = ()=>{
                             className: "accordion-body",
                             children: [
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("strong", {
-                                    children: "Software Developer"
+                                    children: "Usage"
                                 }, void 0, false, {
                                     fileName: "src/components/About.jsx",
                                     lineNumber: 14,
@@ -34111,35 +34111,13 @@ const About = ()=>{
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                     fileName: "src/components/About.jsx",
                                     lineNumber: 14,
-                                    columnNumber: 48
+                                    columnNumber: 35
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("code", {
-                                    children: "Github Publisheries :"
+                                    children: "It is the inbox mail seperator platform. The application seperates incoming emails according to their contents and segregates them according to which category they fall into."
                                 }, void 0, false, {
                                     fileName: "src/components/About.jsx",
                                     lineNumber: 15,
-                                    columnNumber: 13
-                                }, undefined),
-                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
-                                    fileName: "src/components/About.jsx",
-                                    lineNumber: 15,
-                                    columnNumber: 47
-                                }, undefined),
-                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("code", {
-                                    children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
-                                        href: "https://github.com/DurgeshMandge",
-                                        className: "text-decoration-none",
-                                        target: "_blank",
-                                        title: "view repository",
-                                        children: "https://github.com/DurgeshMandge"
-                                    }, void 0, false, {
-                                        fileName: "src/components/About.jsx",
-                                        lineNumber: 16,
-                                        columnNumber: 19
-                                    }, undefined)
-                                }, void 0, false, {
-                                    fileName: "src/components/About.jsx",
-                                    lineNumber: 16,
                                     columnNumber: 13
                                 }, undefined)
                             ]
@@ -34174,12 +34152,12 @@ const About = ()=>{
                             children: "Professional Experience"
                         }, void 0, false, {
                             fileName: "src/components/About.jsx",
-                            lineNumber: 23,
+                            lineNumber: 24,
                             columnNumber: 11
                         }, undefined)
                     }, void 0, false, {
                         fileName: "src/components/About.jsx",
-                        lineNumber: 22,
+                        lineNumber: 23,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -34194,31 +34172,31 @@ const About = ()=>{
                                         '"Is your LinkedIn profile as impressive as your smile?',
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                             fileName: "src/components/About.jsx",
-                                            lineNumber: 30,
+                                            lineNumber: 31,
                                             columnNumber: 75
                                         }, undefined),
                                         "Because I'm definitely looking to connect.\""
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/components/About.jsx",
-                                    lineNumber: 30,
+                                    lineNumber: 31,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                     fileName: "src/components/About.jsx",
-                                    lineNumber: 32,
+                                    lineNumber: 33,
                                     columnNumber: 22
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("code", {
                                     children: " >2 Years of Professionalism"
                                 }, void 0, false, {
                                     fileName: "src/components/About.jsx",
-                                    lineNumber: 33,
+                                    lineNumber: 34,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                     fileName: "src/components/About.jsx",
-                                    lineNumber: 33,
+                                    lineNumber: 34,
                                     columnNumber: 57
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
@@ -34228,34 +34206,34 @@ const About = ()=>{
                                         children: "ViewCV"
                                     }, void 0, false, {
                                         fileName: "src/components/About.jsx",
-                                        lineNumber: 34,
+                                        lineNumber: 35,
                                         columnNumber: 142
                                     }, undefined)
                                 }, void 0, false, {
                                     fileName: "src/components/About.jsx",
-                                    lineNumber: 34,
+                                    lineNumber: 35,
                                     columnNumber: 15
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                     fileName: "src/components/About.jsx",
-                                    lineNumber: 35,
+                                    lineNumber: 36,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/components/About.jsx",
-                            lineNumber: 29,
+                            lineNumber: 30,
                             columnNumber: 11
                         }, undefined)
                     }, void 0, false, {
                         fileName: "src/components/About.jsx",
-                        lineNumber: 28,
+                        lineNumber: 29,
                         columnNumber: 9
                     }, undefined)
                 ]
             }, void 0, true, {
                 fileName: "src/components/About.jsx",
-                lineNumber: 21,
+                lineNumber: 22,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -34273,12 +34251,12 @@ const About = ()=>{
                             children: "Educational Background"
                         }, void 0, false, {
                             fileName: "src/components/About.jsx",
-                            lineNumber: 42,
+                            lineNumber: 43,
                             columnNumber: 11
                         }, undefined)
                     }, void 0, false, {
                         fileName: "src/components/About.jsx",
-                        lineNumber: 41,
+                        lineNumber: 42,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -34293,56 +34271,56 @@ const About = ()=>{
                                         "Bachelors in Science",
                                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                             fileName: "src/components/About.jsx",
-                                            lineNumber: 49,
+                                            lineNumber: 50,
                                             columnNumber: 41
                                         }, undefined),
                                         "Computer Science specialized"
                                     ]
                                 }, void 0, true, {
                                     fileName: "src/components/About.jsx",
-                                    lineNumber: 49,
+                                    lineNumber: 50,
                                     columnNumber: 13
                                 }, undefined),
                                 " ",
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                     fileName: "src/components/About.jsx",
-                                    lineNumber: 49,
+                                    lineNumber: 50,
                                     columnNumber: 84
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("code", {
                                     children: "North Maharashtra University"
                                 }, void 0, false, {
                                     fileName: "src/components/About.jsx",
-                                    lineNumber: 50,
+                                    lineNumber: 51,
                                     columnNumber: 13
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                     fileName: "src/components/About.jsx",
-                                    lineNumber: 50,
+                                    lineNumber: 51,
                                     columnNumber: 54
                                 }, undefined),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("code", {
                                     children: "Pune Educational Board"
                                 }, void 0, false, {
                                     fileName: "src/components/About.jsx",
-                                    lineNumber: 51,
+                                    lineNumber: 52,
                                     columnNumber: 13
                                 }, undefined)
                             ]
                         }, void 0, true, {
                             fileName: "src/components/About.jsx",
-                            lineNumber: 48,
+                            lineNumber: 49,
                             columnNumber: 11
                         }, undefined)
                     }, void 0, false, {
                         fileName: "src/components/About.jsx",
-                        lineNumber: 47,
+                        lineNumber: 48,
                         columnNumber: 9
                     }, undefined)
                 ]
             }, void 0, true, {
                 fileName: "src/components/About.jsx",
-                lineNumber: 40,
+                lineNumber: 41,
                 columnNumber: 7
             }, undefined)
         ]

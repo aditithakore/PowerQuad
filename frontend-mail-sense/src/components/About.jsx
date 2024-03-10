@@ -5,15 +5,16 @@ const About = ()=>{
       <div className="accordion-item">
         <h2 className="accordion-header">
         <button className="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-          Durgesh Dilip Mandge
+          Mail-Sense Application
         </button>
         </h2>
   
         <div id="collapseOne" className="accordion-collapse collapse show" data-bs-parent="#accordionExample">
           <div className="accordion-body">
-            <strong>Software Developer</strong><br/>
-            <code>Github Publisheries :</code><br/>
-            <code><a href="https://github.com/DurgeshMandge" className="text-decoration-none" target="_blank" title="view repository">https://github.com/DurgeshMandge</a></code>
+            <strong>Usage</strong><br/>
+            <code>
+              It is the inbox mail seperator platform. The application seperates incoming emails according to their contents and segregates them according to which category they fall into.
+            </code>
           </div>
         </div>
       </div>
